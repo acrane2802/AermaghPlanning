@@ -1,0 +1,6 @@
+[submodule "3rdparty/glad2"]
+	path = 3rdparty/glad2
+	url = https://github.com/acrane2802/glad
+[submodule "3rdparty/sdl3"]
+	path = 3rdparty/sdl3
+	url = https://github.com/libsdl-org/SDL
