@@ -14,4 +14,4 @@ if (UNIX AND APPLE)
     add_definitions(-DPLATFORM_MACOS)
 endif(UNIX AND APPLE)
 
-add_executable(AermaghPlanning "main.cpp")
+add_executable(AermaghPlanning "src/main.cpp")
